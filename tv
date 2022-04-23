@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/7707815037",
+			"native": "ca-app-pub-7522731665883717/2729168135",
+			"interstitial": "ca-app-pub-7522731665883717/5081651692"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "laila",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": " The arrival of a second child in the family might be a joyous occasion for you as a parent, but the same cannot be said about the firstborn. Children, no matter what their age may be, do not take the arrival of the second child too heartily. Far from it, they are hit by a new sense of insecurity and tension. As a result, you will find the attitude of your first born changing overnight. This can pose a serious challenge for the parents. As it is, they have a whole new list of duties to attend, with the arrival of the new baby. On top of that, the rowdy behaviour of their firstborn creates a world of problems. In such a scenario it is easy to lose temper on the elder child and start scolding, but that is not the ideal solution. It is more important to seek permanent solutions rather than temporary relief. If the sibling rivalry is not cut short at this early stage, it can grow into a huge future problem that you might have to contend with every day " 
+},
+		{
+"title": "Guide 2",
+"description": "As a parent, you want solutions rather than general counselling at this stage. In your mind, you still hold your first born as precious as he was before the arrival of the second child. So, why not show love and reiterate this point across to the child. You will be amazed how your one to one interactions and love can work wonders on the psyche of the child. With your constant counselling, the child would forget all about the rivalry (may be read as insecurity too) and start loving his little brother or sister. So, here are some ways in which the firstborn might show his displeasure and accordingly have a plan of action to counter the scenario. "
+		},
+		{
+"title": "Guide 3",
+"description": "As ever your child is very protective of his belongings. So, long he has had to share the bed with only the parents, and he has done so lovingly. But with the arrival of the new baby, he sees a threat to his kingdom. So, violent demonstrations prior to the sleeping time are general. Do not make the scenario worse, by banishing the kid to a separate room. Child Psychologists believe that the same routine should be followed till at least three months after the new baby’s birth. Counsel the kid, as to why sharing the bed with the new brother or sister only makes sleeping time more fun. Also, allow him a space beside the baby, so that he feels cared for. "
+		},
+		{
+"title": "Guide 4  ",
+"description": "This is a classic case of regression. Parents take great pains in teaching new skills to their first born, but once the new baby arrives he will show babyish signs of going back to the old ways. He will whine about bathing, eating or even studying himself. He will want the parents to be beside him all the while. Again, this behaviour arises from a sense of insecurity. He feels that by forcing the mother or father to give him a bath he would have a better chance of gaining their love. It is a type of competition. In such a scenario, it would be a disastrous idea to bring up the “grown-up boy” talk. For one or two days, you might have to follow his request. But while you are giving a bath do reiterate that all boys in his class are independent enough to bathe themselves  "
+		},
+		{
+"title": "Guide 5",
+"description": "This is a common complain that you will hear from the firstborn. There is a mistake on your part too. Most parents get very busy after the arrival of their second baby (and very logically so). This means they cannot dedicate the same amount of time to their first born. A child, who so long was the centre of all attraction, has now been cast away to a side. The resentment that brews in the mind of your first born is very logical, then. You can counsel the kid all you want, but complaints will keep on coming. What you really need to do is spend some one-to-one time with the firstborn every day. We understand that this can be a tall claim, given your present schedule. But for the betterment of the relationship between the siblings you need to vacate some time and just sit with the firstborn. You will find that much resentment will vanish as you talk to him. "
+		}
+	]
+}
